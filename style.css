@@ -1,0 +1,69 @@
+body {
+    background-color: oldlace;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 50px;
+}
+
+#intro {
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 2px 2px burlywood;
+}
+
+#table1 {
+    width: 100%;
+    border-spacing: 5px;
+    min-height: 50vh;
+}
+
+tr {
+    text-align: center;
+    height: 20px;
+}
+
+thead {
+    height: 50px;
+}
+
+#img {
+    padding: 50px;
+}
+
+hr {
+    border-top: 2px solid brown;
+    border-radius: 5px;
+}
+
+#navbarlist {
+    font-style: oblique;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: brown;
+}
+
+#navbar {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+}
+
+li a:hover {
+    background-color: wheat;
+}
+
+#hobby {
+    line-height: 30px;
+}
+
+#future-plan {
+    line-height: 30px;
+}
